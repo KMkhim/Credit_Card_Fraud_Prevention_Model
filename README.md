@@ -3,8 +3,10 @@
 <img width="1011" alt="Screenshot 2567-11-13 at 19 15 08" src="https://github.com/user-attachments/assets/5126ab18-219e-476b-859f-0fef4717e864">
 
 ## 🔗 Kaggle Dataset
-<a href="https://readme.com/" target="_blank">Data Set</a>
 
+   <a href="https://readme.com/" target="_blank">Data Set</a>
+
+<img width="1252" alt="Screenshot 2567-11-13 at 19 33 16" src="https://github.com/user-attachments/assets/02f5d411-b795-4842-9d17-1dce4e3504fc">
 <hr>
 
 ### Content Summary
